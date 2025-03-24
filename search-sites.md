@@ -58,3 +58,20 @@
 
 * Wayback Machine: [https://archive.org/web/](https://www.google.com/search?q=https://archive.org/web/) (for archived web pages)
 * Wolfram Alpha: [https://www.wolframalpha.com](https://www.wolframalpha.com) (for computational knowledge)
+
+  ```
+## Search Engines with Public URLs
+
+-   **Google Search:** [https://www.google.com/](https://www.google.com/)
+-   **Bing:** [https://www.bing.com/](https://www.bing.com/)
+-   **DuckDuckGo:** [https://duckduckgo.com/](https://duckduckgo.com/)
+-   **Yahoo! Search:** [https://search.yahoo.com/](https://search.yahoo.com/)
+-   **Yandex Search:** [https://yandex.com/search/](https://yandex.com/search/)
+-   **Baidu:** [https://www.baidu.com/](https://www.baidu.com/)
+-   **SearXNG:** [https://searxng.org/](https://searxng.org/) (Metasearch engine)
+-   **Brave Search:** [https://search.brave.com/](https://search.brave.com/)
+-   **You.com:** [https://you.com/](https://you.com/)
+-   **Ecosia:** [https://www.ecosia.org/](https://www.ecosia.org/)
+-   **Swisscows:** [https://swisscows.com/](https://swisscows.com/)
+-   **Mojeek:** [https://www.mojeek.com/](https://www.mojeek.com/)
+
